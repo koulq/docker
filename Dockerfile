@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.4.0
+FROM k8s.gcr.io/etcd-amd64:2.3.7
