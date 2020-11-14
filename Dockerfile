@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:latest
+FROM  gcr.io/k8s-staging-metrics-server/metrics-server:master
