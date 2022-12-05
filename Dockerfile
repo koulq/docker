@@ -1,1 +1,1 @@
-FROM  quay.io/external_storage/nfs-client-provisioner:latest
+FROM  registry.suse.com/bci/bci-base:15.3
