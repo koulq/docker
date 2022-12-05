@@ -1,1 +1,1 @@
-FROM  registry.suse.com/bci/bci-base:15.3
+FROM  ghcr.io/k8snetworkplumbingwg/whereabouts:v0.5.4-amd64
