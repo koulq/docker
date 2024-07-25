@@ -1,1 +1,1 @@
-FROM  registry.gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate:rolling-centos
+FROM gitlab/gitlab-ee:16.11.7-ee.0
